@@ -1,0 +1,35 @@
+body{
+margin: 0 auto;
+background-color:#804D4C;
+}
+
+
+
+
+
+
+
+
+#navigatebarDiv{
+   width:600px;
+   background-color:#088A85;
+} 
+
+.homeImage{
+    width:600px;
+	height:400px;
+	background-color:#088A85;
+}
+
+.contentDiv{
+   background-color:#088A85;
+}
+
+.photo {
+       
+}
+
+table{
+   width: 80%;
+   border-spacing: 5px;
+}
