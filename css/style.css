@@ -1,6 +1,6 @@
 body{
 margin: 0 auto;
-background-color:#804D4C;
+<---background-color:#804D4C;
 }
 
 
@@ -22,7 +22,7 @@ background-color:#804D4C;
 }
 
 .contentDiv{
-   background-color:#088A85;
+   <--background-color:#088A85;
 }
 
 .photo {
